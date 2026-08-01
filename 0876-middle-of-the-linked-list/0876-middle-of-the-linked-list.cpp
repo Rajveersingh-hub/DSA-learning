@@ -11,19 +11,31 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-       ListNode*temp=head;
-       int len=0;
-       while(head!=NULL){
-        head=head->next;
-        len++;
-       }
-       int ans=(len/2);
-       int cnt=0;
-       while(cnt<ans){
-        temp=temp->next;
-        cnt++;
-       }
-       return temp;
+        // Brute force using length concept TC-O(N) SC-O(1)
+    //    ListNode*temp=head;
+    //    int len=0;
+    //    while(head!=NULL){
+    //     head=head->next;
+    //     len++;
+    //    }
+    //    int ans=(len/2);
+    //    int cnt=0;
+    //    while(cnt<ans){
+    //     temp=temp->next;
+    //     cnt++;
+    //    }
+    //    return temp;
+    ListNode*slow=head;
+    ListNode*fast=head->next;
+    while(fast!=NULL){
+        slow=slow->next;
+        fast=fast->next;
+        if(fast!=NULL){
+            fast=fast->next;
+        }
+    }
+    return slow;
+
 
      
     } 
