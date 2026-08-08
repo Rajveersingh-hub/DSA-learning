@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0876-middle-of-the-linked-list) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -170,8 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
