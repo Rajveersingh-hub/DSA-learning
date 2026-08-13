@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0268-missing-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0493-reverse-pairs) |
 ## Counting
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0445-add-two-numbers-ii) |
