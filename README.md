@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
