@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -222,5 +225,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
