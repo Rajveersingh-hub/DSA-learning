@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0162-find-peak-element) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
