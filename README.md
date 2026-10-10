@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
