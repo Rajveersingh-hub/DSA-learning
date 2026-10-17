@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0867-transpose-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
