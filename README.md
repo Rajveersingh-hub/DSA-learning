@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0922-sort-array-by-parity-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
