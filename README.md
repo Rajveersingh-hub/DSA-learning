@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0445-add-two-numbers-ii) |
+| [2409-count-days-spent-together](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/0680-valid-palindrome-ii) |
+| [2409-count-days-spent-together](https://github.com/Rajveersingh-hub/DSA-learning/tree/master/2409-count-days-spent-together) |
 ## Bracket Sequences
 |  |
 | ------- |
